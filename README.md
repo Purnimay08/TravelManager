@@ -1,8 +1,6 @@
 # Tripster - Modern Full-Stack Travel Accommodation Platform
 
-![Tripster GIF](https://github.com/yasin-erkan/Tripster---Modern-Travel-Accommodation-Platform/blob/main/tripster.gif)
 
-## Overview
 
 Tripster is a modern full-stack travel accommodation booking platform built with React and TypeScript. It provides a seamless experience for users to discover, compare, and book their perfect stay with an elegant and user-friendly interface.
 
@@ -33,4 +31,4 @@ Tripster is a modern full-stack travel accommodation booking platform built with
     -   Prisma ORM
     -   JWT Authentication
 
-Feel free to customize this README with additional details specific to your project!
+
